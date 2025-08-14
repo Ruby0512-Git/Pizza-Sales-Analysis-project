@@ -24,6 +24,30 @@ File Format: .pbix for development and .png for dashboard preview .
 
 SQL(sequence query language): Structured Query Language, is a standard programming language primarily used for managing and manipulating data within relational database management systems (RDBMS)
 
+Data source:
+
+Data on : Kaggle.pizza-sales-dataset
+
+Highlight:
+Business problem : Pizza generate billion in revenue yet there are some pizza category are less contributor in revenue.
+
+Goal of dashboard: We need to analyze key indicator of pizza sales  data to gain insights into our business perfrmance 
+
+KPI Requirement:
+Total Revenue.
+
+Average order value .
+
+Total pizza sold.
+
+Total Orders 
+
+Average pizza per orders.
+
+Percentage of sales by pizza size 
+
+Total pizza sold by pizza category 
+
 
 Screenshort:
 <img width="1366" height="768" alt="Screenshot 2025-08-13 184353 png power bi" src="https://github.com/user-attachments/assets/a3552c17-6ea8-41fa-973d-74a0d535282e" />
